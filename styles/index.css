@@ -1,0 +1,19 @@
+@import "fonts.css";
+
+body {
+    text-align: center;
+    font-family: "Life Savers";
+}
+
+p {
+    font-size: 1.2em;
+    font-family: "Londrina Solid";
+}
+
+img {
+    margin: 20px;
+}
+
+#cheer {
+    display: none;
+}
